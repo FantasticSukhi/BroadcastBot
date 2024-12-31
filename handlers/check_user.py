@@ -1,8 +1,4 @@
-# (c) N A C BOTS
-
-
 import datetime
-
 import config
 import logging
 
