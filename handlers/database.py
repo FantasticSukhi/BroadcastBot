@@ -1,9 +1,5 @@
-# (c) N A C BOTS
-
 import datetime
-
 import motor.motor_asyncio
-
 
 class Database:
     def __init__(self, uri, database_name):
