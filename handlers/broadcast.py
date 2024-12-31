@@ -1,5 +1,3 @@
-# (c) N A C BOTS
-
 import asyncio
 import datetime
 import os
